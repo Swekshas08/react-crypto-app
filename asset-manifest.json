@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react-crpto-app/static/js/main.fde2aeca.js",
+    "static/media/btc.png": "/react-crpto-app/static/media/btc.04101b0b163c035fa57e.png",
+    "index.html": "/react-crpto-app/index.html",
+    "main.fde2aeca.js.map": "/react-crpto-app/static/js/main.fde2aeca.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fde2aeca.js"
+  ]
+}
